@@ -1,2 +1,5 @@
-# learning-git
-My first Git and GitHub practice repository
+# Learning Git
+
+This is my first GitHub repository!
+
+I am learning how Git and GitHub work.
